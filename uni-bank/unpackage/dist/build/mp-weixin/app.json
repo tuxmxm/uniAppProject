@@ -1,0 +1,13 @@
+{
+  "pages": [
+    "pages/index/index"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "white",
+    "navigationBarTitleText": "建设银行移动网银",
+    "navigationBarBackgroundColor": "#007AFF",
+    "backgroundColor": "#FFFFFF"
+  },
+  "usingComponents": {}
+}

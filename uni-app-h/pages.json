@@ -1,0 +1,198 @@
+{
+	"pages": [
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationBarTitleText": "uni-ui 组件"
+			}
+		},
+		{
+			"path": "pages/badge/badge",
+			"style": {
+				"navigationBarTitleText": "数字角标"
+				//"navigationStyle": "custom"//自定义
+			}
+		}
+	    ,{
+            "path" : "pages/calendar/calendar",
+            "style" : {
+				"navigationBarTitleText": "日历"
+			}
+        }
+        ,{
+            "path" : "pages/card/card",
+            "style" : {
+            	"navigationBarTitleText": "卡片"
+            }
+        }
+        ,{
+            "path" : "pages/collapse/collapse",
+            "style" : {
+            	"navigationBarTitleText": "折叠面板"
+            }
+        }
+        ,{
+            "path" : "pages/countdown/countdown",
+            "style" : {
+            	"navigationBarTitleText": "倒计时"
+            }
+        }
+        ,{
+            "path" : "pages/drawer/drawer",
+            "style" : {
+            	"navigationBarTitleText": "抽屉侧滑菜单"
+            }
+        }
+        ,{
+            "path" : "pages/fab/fab",
+            "style" : {
+            	"navigationBarTitleText": "悬浮按钮"
+            }
+        }
+        ,{
+            "path" : "pages/fav/fav",
+            "style" : {
+            	"navigationBarTitleText": "收藏按钮"
+            }
+        }
+        ,{
+            "path" : "pages/goodsNav/goodsNav",
+            "style" : {
+            	"navigationBarTitleText": "商品导航"
+            }
+        }
+        ,{
+            "path" : "pages/grid/grid",
+            "style" : {
+            	"navigationBarTitleText": "宫格组件"
+            }
+        }
+		,{
+		    "path" : "pages/icons/icons",
+		    "style" : {
+		    	"navigationBarTitleText": "图标"
+		    }
+		}
+        ,{
+            "path" : "pages/indexedList/indexedList",
+            "style" : {
+            	"navigationBarTitleText": "索引列表"
+            }
+        }
+        ,{
+            "path" : "pages/link/link",
+            "style" : {
+            	"navigationBarTitleText": "外部网页超链接组件"
+            }
+        }
+        ,{
+            "path" : "pages/list/list",
+            "style" : {
+            	"navigationBarTitleText": "列表组件"
+            }
+        }
+        ,{
+            "path" : "pages/loadMore/loadMore",
+            "style" : {
+            	"navigationBarTitleText": "加载更多"
+            }
+        }
+        ,{
+            "path" : "pages/navBar/navBar",
+            "style" : {
+            	"navigationBarTitleText": "导航栏"
+            }
+        }
+        ,{
+            "path" : "pages/noticeBar/noticeBar",
+            "style" : {
+            	"navigationBarTitleText": "通告栏组件"
+            }
+        }
+        ,{
+            "path" : "pages/numberBox/numberBox",
+            "style" : {
+            	"navigationBarTitleText": "数字输入框"
+            }
+        }
+        ,{
+            "path" : "pages/pagination/pagination",
+            "style" : {
+            	"navigationBarTitleText": "分页器"
+            }
+        }
+        ,{
+            "path" : "pages/popUp/popUp",
+            "style" : {
+            	"navigationBarTitleText": "弹出层"
+            }
+        }
+        ,{
+            "path" : "pages/rate/rate",
+            "style" : {
+            	"navigationBarTitleText": "评分组件"
+            }
+        }
+        ,{
+            "path" : "pages/searchBar/searchBar",
+            "style" : {
+            	"navigationBarTitleText": "搜索栏"
+            }
+        }
+        ,{
+            "path" : "pages/section/section",
+            "style" : {
+            	"navigationBarTitleText": "标题栏"
+            }
+        }
+        ,{
+            "path" : "pages/segmentedControl/segmentedControl",
+            "style" : {
+            	"navigationBarTitleText": "分段器"
+            }
+        }
+        ,{
+            "path" : "pages/steps/steps",
+            "style" : {
+            	"navigationBarTitleText": "步骤条"
+            }
+        }
+        ,{
+            "path" : "pages/swipeAction/swipeAction",
+            "style" : {
+            	"navigationBarTitleText": "滑动操作"
+            }
+        }
+        ,{
+            "path" : "pages/tag/tag",
+            "style" : {
+            	"navigationBarTitleText": "标签"
+            }
+        }
+        ,{
+            "path" : "pages/title/title",
+            "style" : {
+            	"navigationBarTitleText": "章节标题"
+            }
+        }
+        ,{
+            "path" : "pages/transition/transition",
+            "style" : {
+            	"navigationBarTitleText": "过渡动画"
+            }
+        }
+        
+        ,{
+            "path" : "pages/combox/combox",
+            "style" : {
+				"navigationBarTitleText": "组合框"
+			}
+        }
+    ],
+	"globalStyle": {
+		"navigationBarTextStyle": "white",
+		"navigationBarTitleText": "uni-app",
+		"navigationBarBackgroundColor": "#007AFF",
+		"backgroundColor": "#FFFFFF"
+	}
+}
